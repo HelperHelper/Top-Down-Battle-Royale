@@ -19,8 +19,7 @@
 - Además del arma que usa el jugador y el enemigo, hay un objeto curioso en el juego que puede servir de arma letal para el enemigo o para el jugador, es al azar, ya que el jugador o el enemigo podrían usarlo por pura suerte, se trata de un prefab llamado plutonium este prefab es como un arma global que está activo durante el juego al dispararle una bala el script asociado al  prefab detecta que objeto colisiona con él y sí se está dentro del rango de la explosión se puede perder mucha vida, igual le puede suceder a la AI, por eso es un arma global que puede servirle al enemigo o al jugador, es cuestión de suerte, una vez explota el plutonium vuelve a aparecer en algún lugar del mapa en los próximos 10 segundos aproximadamente.
 
 
-# Cosas que se pueden hacer dentro del juego: También se puede recuperar vida, una vez se recoge el botiquín aparece en otra ubicación aleatoria dentro del mapa, algunos objetos tiene interacción propia como por ejemplo los molinos, se puede recoger  una llave que permite abrir puertas cerradas, cuando se entra a una casa
-al ser un juego top down desaparece el tejado para poder explorar dentro de la misma
+# Cosas que se pueden hacer dentro del juego: También se puede recuperar vida, una vez se recoge el botiquín aparece en otra ubicación aleatoria dentro del mapa, algunos objetos tiene interacción propia como por ejemplo los molinos, se puede recoger  una llave que permite abrir puertas cerradas, cuando se entra a una casa al ser un juego top down desaparece el tejado para poder explorar dentro de la misma
 
 # Esto es solo un resumen técnico de lo que hace este juego y algunas de sus funcionalidades técnicas o funciones específicas.
 
