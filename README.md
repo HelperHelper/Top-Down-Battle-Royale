@@ -1,5 +1,5 @@
 # Game Sheriff vs. Cowboy
-# Información técnica del juego
+## Información técnica del juego
 
 # ScriptableObject
 # - Se crea un ScriptableObject funciona como una base datos interna para crear diferentes tipos de municiones que se implementan para cada tipo de arma, este script usa la interfaz de usuario de Unity para crear municiones, se puede usar desde el menú de opciones de Unity y directamente desde el scriptableObject
