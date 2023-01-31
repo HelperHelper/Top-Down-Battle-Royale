@@ -21,7 +21,7 @@
 
 Cosas que se pueden hacer dentro del juego: También se puede recuperar vida, una vez se recoge el botiquín aparece en otra ubicación aleatoria dentro del mapa, algunos objetos tiene interacción propia como por ejemplo los molinos, se puede recoger  una llave que permite abrir puertas cerradas, cuando se entra a una casa al ser un juego top down desaparece el tejado para poder explorar dentro de la misma
 
-# Esto es solo un resumen técnico de lo que hace este juego y algunas de sus funcionalidades técnicas o funciones específicas.
+# Esto es solo un resumen técnico de lo que hace este proyecto y sus funciones específicas.
 
 
 
